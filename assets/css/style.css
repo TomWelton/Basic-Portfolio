@@ -1,0 +1,41 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	width: 1200px;
+	text-align: left;
+}
+.header {
+	background-color: white;
+	height: 80px;
+	margin: 0 auto;
+}
+.nav {
+	float: right;
+	text-align: center;
+}
+.wrapper {
+	width: 960px;
+	float: left;
+	margin: 0px 135px 0px 135px;
+
+}
+.content {
+	width: 650px;
+}
+.contactme {
+	width: 270px;
+	text-align: center;
+	float: right;
+	background: white;
+}
+.footer {
+	background-color: #666666;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	font-size: 6;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
