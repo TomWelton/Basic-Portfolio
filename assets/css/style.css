@@ -1,13 +1,15 @@
 html, body {
 	margin: 0;
 	padding: 0;
+	text-decoration-color: #777777;
+	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .container {
 	width: 1200px;
 	text-align: left;
 }
 .header {
-	background-color: white;
+	background-color: #ffffff;
 	height: 80px;
 	margin: 0 auto;
 }
@@ -17,18 +19,19 @@ html, body {
 }
 .wrapper {
 	width: 960px;
-	float: left;
 	margin: 0px 135px 0px 135px;
 
 }
 .content {
 	width: 650px;
+	background:#ffffff;
 }
 .contactme {
 	width: 270px;
 	text-align: center;
 	float: right;
 	background: white;
+
 }
 .footer {
 	background-color: #666666;
